@@ -28,4 +28,4 @@ EXPOSE 3000
 # Start nginx to serve the production build
 CMD ["nginx", "-g", "daemon off;"]
 
-#comment
+
